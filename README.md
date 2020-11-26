@@ -2,7 +2,7 @@
 <img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="NATHAN-BOT" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NATHAN-BOT" src="https://img.shields.io/badge/NATHAN BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/TierGans"><img title="Author" src="https://img.shields.io/badge/AUTHOR-TierGans-orange.svg?style=for-the-badge&logo=github"></a>
