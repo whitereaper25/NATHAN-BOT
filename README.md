@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<p align="center">
+<img src="https://media.giphy.com/media/UsQpYBk8gEsboxJvA/source.gif" width="256" height="256">
 </p>
 <p align="center">
 <a href="#"><img title="NATHAN-BOT" src="https://img.shields.io/badge/NATHAN BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -40,7 +41,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/TierGans/NATHAN-BOT.git
-> cd whatsapp-bot
+> cd NATHAN-BOT
 ```
 
 Install the dependencies:
