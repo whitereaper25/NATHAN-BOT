@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img src="https://media.giphy.com/media/UsQpYBk8gEsboxJvA/source.gif" width="256" height="256">
+<img src="https://media.giphy.com/media/UsQpYBk8gEsboxJvAw/source.gif" width="256" height="256">
 </p>
 <p align="center">
 <a href="#"><img title="NATHAN-BOT" src="https://img.shields.io/badge/NATHAN BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
