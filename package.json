@@ -1,12 +1,12 @@
 {
-  "name": "whatsapp-bot",
+  "name": "HINATA",
   "version": "2.0.0",
   "description": "Whatsapp Bot - Node Js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ArugaZ",
+  "author": "SOUL REAPERs",
   "repository": {
     "type": "git",
     "url": "https://github.com/ArugaZ/whatsapp-bot.git"
